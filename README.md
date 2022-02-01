@@ -7,10 +7,14 @@ Research on Fairness and Bias Mitigation in Machine Learning often uses a set of
 ## Main Results
 
 Performance and fairness metrics vs. Machine Learning Model and Imputation Strategy: not all ML models and metrics respond in a similar manner to the imputation strategies applied.
+![Figure 1][../assets/ImputationPerformanceByMetric.png?raw=true]
+![Figure 2][../assets/ImputationFairnessByMetric.png?raw=true]
 
 Following on from this observation, a robust three factor ANOVA reveals similar observations.
+![ANOVA Results][../assets/ANOVA.png?raw=true]
 
 To try and capture different canonical preference structures, a Friedman ranking was used to illustrate the fairness vs. performance (accuracy etc.) trade-off.
+![Friedman Rankings][../assets/rankings.png]
 
 ## Notebooks
 
