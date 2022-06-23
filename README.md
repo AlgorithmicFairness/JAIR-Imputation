@@ -26,8 +26,8 @@ One notebook per dataset (Adult, German Credit, and COMPAS) is available to recr
 	title={{Impact of Imputation Strategies on Fairness in Machine Learning}},
 	author={Caton, S. and Malisetty, S. and Haas, C.},
 	journal={Journal of Artificial Intelligence Research (JAIR)},
-	volume={},
-	pages={},
+	volume={74},
+	pages={1011--1035},
 	year={2022}
 }
 ```
